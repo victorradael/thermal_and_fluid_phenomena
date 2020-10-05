@@ -4,8 +4,8 @@
 
 ### Massa especifica:
 
-- A **massa especifica** **_p_** de qualquer material é definida como massa do material por unidade de volume: **_p = Δm/ΔV_**;
-- Quando uma amostra do material é muito maior do que as dimensões atômicas, costumamos escrever a equação na forma: **_p = m/V_**;
+- A **massa especifica** **_μ_** de qualquer material é definida como massa do material por unidade de volume: **_μ = Δm/ΔV_**;
+- Quando uma amostra do material é muito maior do que as dimensões atômicas, costumamos escrever a equação na forma: **_μ = m/V_**;
 
 ---
 
@@ -18,8 +18,8 @@
 
 ### Variação da Pressão com a Altura e com a Profundidade:
 
-- A pressão em um fluido em repouso varia com a posição vertical _y_. Tomando como positivo o sentido para cima, **_p2 =p1 + pg(y1 - y2)_**;
-- A pressão em um fluido é a mesma para todos os pontos situados a mesma altura. Se _h_ é a _profundidade_ de uma amostra do fluido em relação a um nível de referencia no qual a pressão é _p0_, a equação se torna: **_p = p0 + pgh_**, onde _p_ é a pressão da atmosfera;
+- A pressão em um fluido em repouso varia com a posição vertical _y_. Tomando como positivo o sentido para cima, **_p2 =p1 + μg(y1 - y2)_**;
+- A pressão em um fluido é a mesma para todos os pontos situados a mesma altura. Se _h_ é a _profundidade_ de uma amostra do fluido em relação a um nível de referencia no qual a pressão é _p0_, a equação se torna: **_p = p0 + μgh_**, onde _p_ é a pressão da atmosfera;
 
 ---
 
@@ -38,10 +38,10 @@
 
 ### Escoamento de Fluidos Ideais:
 
-- Um **_fluido ideal_** é incompressível, nao tem viscosidade e seu escoamento é laminar e irrotacional. Uma _linha de fluxo_ é a trajetória seguida por uma partícula do fluido. Um _tubo de fluxo_ é um feixe de linhas de fluxo. O escoamento no interior de um tubo de fluxo obedece a **_equação da continuidade:_** **Rv = Av = constante**, onde _Rv_ é a **vazão**, _A_ é a area da seção reta do tubo de fluxo em qualquer ponto e _v_ é a velocidade do fluido nesse ponto. A **vazão mássica** _Rm_ é dada por **_Rm = pRv = constante_**
+- Um **_fluido ideal_** é incompressível, nao tem viscosidade e seu escoamento é laminar e irrotacional. Uma _linha de fluxo_ é a trajetória seguida por uma partícula do fluido. Um _tubo de fluxo_ é um feixe de linhas de fluxo. O escoamento no interior de um tubo de fluxo obedece a **_equação da continuidade:_** **Rv = Av = constante**, onde _Rv_ é a **vazão**, _A_ é a area da seção reta do tubo de fluxo em qualquer ponto e _v_ é a velocidade do fluido nesse ponto. A **vazão mássica** _Rm_ é dada por **_Rm = μRv = μAv = constante_**
 
 ---
 
 ### Equação de Bernoulli
 
-- A aplicação do principio de conservação da energia mecânica ao escoamento de um fluido ideal leva a **_equação de Bernoulli:_** **_p + 1/2pv^2 + pgy = constante_**, ao longo de qualquer tubo de fluxo;
+- A aplicação do principio de conservação da energia mecânica ao escoamento de um fluido ideal leva a **_equação de Bernoulli:_** **_p + 1/2μv^2 + μgy = constante_**, ao longo de qualquer tubo de fluxo;
