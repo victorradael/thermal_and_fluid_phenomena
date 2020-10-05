@@ -2,8 +2,6 @@
 
 <h2 align="center">FLUIDOS</h2>
 
----
-
 ## Massa especifica:
 
 - A **massa especifica** **_p_** de qualquer material é definida como massa do material por unidade de volume: **_p = Δm/ΔV_**;
